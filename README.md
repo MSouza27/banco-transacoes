@@ -1,4 +1,4 @@
-# 💳 Banco de Transações - Projeto de Estudo com Spring Boot
+# 💳 Banco de Transações - Projeto com Spring Boot
 
 Este é um projeto de estudo com **Java + Spring Boot** que simula transações bancárias entre instituições financeiras, implementando persistência de dados, validações e filtros customizados.
 
@@ -45,5 +45,5 @@ Este é um projeto de estudo com **Java + Spring Boot** que simula transações 
 
 1. Clone o projeto:
 ```bash
-git clone [https://github.com/seu-usuario/banco-transacoes.git](https://github.com/MSouza27/banco-transacoes.git)
+git clone https://github.com/MSouza27/banco-transacoes.git
 cd banco-transacoes
